@@ -9,12 +9,12 @@ It distributes and bundles the ffmpeg-kit-https version for iOS, macOS and tvOS 
 ### Installation
 Add this repo to as a Swift Package dependency to your project
 ```
-https://github.com/tylerjonesio/ffmpeg-kit-spm
+[https://github.com/tylerjonesio/ffmpeg-kit-spm](https://github.com/sami79031/ffmpeg-kit-spm-mx)
 ```
 
 If using this in a swift package, add this repo as a dependency.
 ```
-.package(url: "https://github.com/tylerjonesio/ffmpeg-kit-spm/", .upToNextMajor(from: "5.1.0"))
+.package(url: "https://github.com/sami79031/ffmpeg-kit-spm-mx/", .upToNextMajor(from: "5.1.0"))
 ```
 
 ### Usage
